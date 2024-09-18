@@ -1,0 +1,29 @@
+2024-09-17 16:44:32 [main] INFO  UserTest:43 - ******Creating a user*****
+2024-09-17 16:44:36 [main] INFO  UserTest:49 - *****User is created*******
+2024-09-17 16:47:57 [main] INFO  UserTest:43 - ******Creating a user*****
+2024-09-17 16:48:00 [main] INFO  UserTest:49 - *****User is created*******
+2024-09-17 16:52:31 [main] INFO  UserTest:43 - ******Creating a user*****
+2024-09-17 16:52:35 [main] INFO  UserTest:49 - *****User is created*******
+2024-09-17 16:56:59 [main] INFO  UserTest:43 - ******Creating a user*****
+2024-09-17 16:57:02 [main] INFO  UserTest:49 - *****User is created*******
+2024-09-17 17:06:54 [main] INFO  UserTest:43 - ******Creating a user*****
+2024-09-17 17:07:38 [main] INFO  UserTest:54 - User details are following
+2024-09-17 17:08:01 [main] INFO  UserTest:63 - Updated user details
+2024-09-17 17:08:29 [main] INFO  UserTest:43 - ******Creating a user*****
+2024-09-17 17:08:32 [main] INFO  UserTest:49 - *****User is created*******
+2024-09-17 17:08:32 [main] INFO  UserTest:54 - User details are following
+2024-09-17 17:08:55 [main] INFO  UserTest:63 - Updated user details
+2024-09-17 17:09:42 [main] INFO  UserTest:79 - User is deleted
+2024-09-17 17:35:37 [main] INFO  DataDrivenTests:24 - Data driven test started
+2024-09-17 17:35:41 [main] INFO  DataDrivenTests:24 - Data driven test started
+2024-09-17 17:35:42 [main] INFO  DataDrivenTests:24 - Data driven test started
+2024-09-17 17:35:45 [main] INFO  DataDrivenTests:46 - Data driven test ended
+2024-09-17 17:35:47 [main] INFO  DataDrivenTests:46 - Data driven test ended
+2024-09-17 17:35:48 [main] INFO  DataDrivenTests:46 - Data driven test ended
+2024-09-17 18:08:20 [main] INFO  UserTest1:42 - ******Creating a user*****
+2024-09-17 18:09:05 [main] INFO  UserTest1:62 - Updated user details
+2024-09-17 18:09:30 [main] INFO  UserTest1:78 - User is deleted
+2024-09-17 18:15:36 [main] INFO  UserTest1:42 - ******Creating a user*****
+2024-09-17 18:16:21 [main] INFO  UserTest1:62 - Updated user details
+2024-09-17 18:17:18 [main] INFO  UserTest:41 - ******Creating a user*****
+2024-09-17 18:17:21 [main] INFO  UserTest:47 - *****User is created*******
